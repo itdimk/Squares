@@ -1,0 +1,12 @@
+C:\Code\Squares\Squares\bin\Debug\net6.0\Squares.deps.json
+C:\Code\Squares\Squares\bin\Debug\net6.0\Squares.dll
+C:\Code\Squares\Squares\bin\Debug\net6.0\Squares.pdb
+C:\Code\Squares\Squares\obj\Debug\net6.0\Squares.csproj.AssemblyReference.cache
+C:\Code\Squares\Squares\obj\Debug\net6.0\Squares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Squares\Squares\obj\Debug\net6.0\Squares.AssemblyInfoInputs.cache
+C:\Code\Squares\Squares\obj\Debug\net6.0\Squares.AssemblyInfo.cs
+C:\Code\Squares\Squares\obj\Debug\net6.0\Squares.csproj.CoreCompileInputs.cache
+C:\Code\Squares\Squares\obj\Debug\net6.0\Squares.dll
+C:\Code\Squares\Squares\obj\Debug\net6.0\refint\Squares.dll
+C:\Code\Squares\Squares\obj\Debug\net6.0\Squares.pdb
+C:\Code\Squares\Squares\obj\Debug\net6.0\ref\Squares.dll
